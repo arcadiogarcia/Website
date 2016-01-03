@@ -236,17 +236,18 @@
         "name": "José",
         "lastname": "Fonseca López",
         "years": [
-            2014
+            2014,
+            2015
         ],
         "city": "Madrid",
         "university": "Universidad Politécnica de Madrid",
-        "email": "",
+        "email": "Jose.Fonseca@studentpartner.com",
         "skills": "C#, Java",
         "twitter": "EEvo92",
         "linkedin": "José Fonseca López",
         "website": "",
-        "image": "https://pbs.twimg.com/profile_images/471699827034578944/zmoIn0wc.jpeg",
-        "thumbnail": "https://pbs.twimg.com/profile_images/471699827034578944/zmoIn0wc_normal.jpeg",
+        "image": "https://pbs.twimg.com/profile_images/648540068433539072/udQ2Qibc.jpg",
+        "thumbnail": "https://pbs.twimg.com/profile_images/648540068433539072/udQ2Qibc_bigger.jpg",
         "location": {
             "lon": 40.4072622,
             "lat": -3.6362286
@@ -408,7 +409,7 @@
         "twitter": "jangelfdez",
         "linkedin": "jangelfdez",
         "website": "www.joseangelfernandez.es",
-        "image": "https://pbs.twimg.com/profile_images/378800000024363771/042ae6ff0a421a63262045f6010ac79c.jpeg",
+        "image": "https://pbs.twimg.com/profile_images/623766849436528640/59IdT7Ud.jpg",
         "thumbnail": "",
         "location": {
             "lon": 40.48850,
@@ -477,13 +478,58 @@
         ],
         "city": "Almería",
         "university": "Universidad de Almería",
-        "email": "contacto@jotaperamez.org",
-        "skills": "Java, HTML5, Web Forms, C#",
-        "twitter": "Jotaperamez",
+        "email": "juanpedro.ramos@studentpartner.com",
+        "skills": "Java, C#, HTML5, CSS3, Web Forms",
+        "twitter": "jotaperamez",
         "linkedin": "juanpedroramosgomez",
-        "website": "http://jotaperamezwordpress.azurewebsites.net",
-        "image": "https://pbs.twimg.com/profile_images/624528847782871040/eeeWF1LG.jpg",
-        "thumbnail": "http://s2.subirimagenes.com/otros/previo/thump_9430659thummap.jpg",
+        "website": "http://www.jotaperamez.org",
+        "image": "https://pbs.twimg.com/profile_images/628878814605668352/o0fUfoMi.jpg",
+        "thumbnail": "http://www.makeathumbnail.com/thumbnails/image392849.jpg",
+        "location": {
+            "lon": 37.2153419,
+            "lat": -2.0673396
+        }
+    },
+    {
+        "id": 22,
+        "msp": true,
+        "name": "Adrian",
+        "lastname": "Crespo Ortiz",
+        "years": [
+            2014,
+			2015
+        ],
+        "city": "Madrid",
+        "university": "Universidad Politécnica de Madrid",
+        "email": "madrid.crespo@gmail.com",
+        "skills": "HTML5, Java, PHP, Hacking, C#",
+        "twitter": "Codingfree",
+        "linkedin": "madridcrespo",
+        "website": "http://www.codingfree.com",
+        "image": "https://pbs.twimg.com/profile_images/612621436914659329/no1MfT1e_400x400.jpg",
+        "thumbnail": "https://pbs.twimg.com/profile_images/612621436914659329/no1MfT1e_bigger.jpg",
+        "location": {
+            "lon": 40.499195,
+            "lat": -3.694147
+        }
+    },
+    {
+        "id": 23,
+        "msp": true,
+        "name": "Jesús",
+        "lastname": "Marín García",
+        "years": [
+            2015
+        ],
+        "city": "Almería",
+        "university": "Universidad de Almería",
+        "email": "Jesus.MarinGarcia@studentpartner.com",
+        "skills": "Seguridad, BI, IoT, cloud, C#, Java",
+        "twitter": "_jesusmg",
+        "linkedin": "jesmg",
+        "website": "http://www.jesusmg.org",
+        "image": "https://pbs.twimg.com/profile_images/640266534884122624/0MYVa-Fh.jpg",
+        "thumbnail": "http://www.makeathumbnail.com/thumbnails/image409116.jpg",
         "location": {
             "lon": 37.2153419,
             "lat": -2.0673396
